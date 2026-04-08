@@ -80,10 +80,16 @@ This project demonstrates core networking concepts such as real-time communicati
 
 ## Contributors
 
-- Vyshali Aytha – Server logic, networking implementation  
-- Yashita Anand – Client-side development, UI (pygame), testing
+- Vyshali Aytha – Server-side development (UDP server, networking logic)  
+- Yashita Anand – Client-side development (pygame UI, movement, latency & jitter)  
+- Vidushi – Security implementation (SSL/TLS module)
 
+---
 
 ## Collaboration
 
-This project was developed as a team effort. Responsibilities were shared across networking, client development, and security implementation. Both contributors participated in testing, debugging, and final integration.
+This project was developed as a team effort with clear division of responsibilities.  
+- The server handles client connections, updates player positions, and broadcasts game state.  
+- The client manages user input, rendering, and performance metrics.  
+- The security module demonstrates encrypted communication using SSL/TLS.  
+
