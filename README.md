@@ -77,3 +77,13 @@ The project uses SSL/TLS with a self-signed certificate to encrypt communication
 
 ## Conclusion
 This project demonstrates core networking concepts such as real-time communication using UDP and secure communication using SSL/TLS. The focus is on networking performance and synchronization rather than advanced user interface design.
+
+## Contributors
+
+- Vyshali Aytha – Server logic, networking implementation  
+- Yashita Anand – Client-side development, UI (pygame), testing
+
+
+## Collaboration
+
+This project was developed as a team effort. Responsibilities were shared across networking, client development, and security implementation. Both contributors participated in testing, debugging, and final integration.
