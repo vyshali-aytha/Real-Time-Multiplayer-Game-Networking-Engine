@@ -82,9 +82,7 @@ This project demonstrates core networking concepts such as real-time communicati
 
 - Vyshali Aytha – Server-side development (UDP server, networking logic)  
 - Yashita Anand – Client-side development (pygame UI, movement, latency & jitter)  
-- Vidushi – Security implementation (SSL/TLS module)
-
----
+- Vidushi Singh – Security implementation (SSL/TLS module)
 
 ## Collaboration
 
